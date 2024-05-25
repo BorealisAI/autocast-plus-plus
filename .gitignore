@@ -1,3 +1,18 @@
+datasets*
+crawler
+autocast_experiments/data/*json
+autocast_experiments/data/*png
+autocast_experiments/data/*gpt*
+autocast_experiments/data/*csv
+autocast_experiments/data/*txt
+autocast_experiments/data/*pdf
+autocast_experiments/huggingface_cache/*
+autocast_experiments/checkpoint/*
+autocast_experiments/*.png
+
+
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
