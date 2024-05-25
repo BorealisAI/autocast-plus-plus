@@ -1,6 +1,6 @@
 
 # AutoCast++: Enhancing World Event Prediction with Zero-shot Ranking-based Context Retrieval
-This repository contains the code for the paper [AutoCast++: Enhancing World Event Prediction with Zero-shot Ranking-based Context Retrieval](https://arxiv.org/abs/2310.01880).
+This repository contains the code for the ICLR'24 paper [AutoCast++: Enhancing World Event Prediction with Zero-shot Ranking-based Context Retrieval](https://arxiv.org/abs/2310.01880).
 
 ![model](assets/autocastpp.png)
 
