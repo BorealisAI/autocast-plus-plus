@@ -60,6 +60,7 @@ bash retrieve_cc_news_bm25+ce.sh
 
 # step 2: creating training data
 python autocast_experiments/data/process.py --static_only
+# see retriever_utils/recency_rerank.py and retriever_utils/data_reorg.py for obtaining recency and relevance scores
 ```
 
 * Download huggingface t5 models
